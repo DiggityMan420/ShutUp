@@ -1,0 +1,12 @@
+## Interface: 90002
+## Title: ShutUp
+## Author: Wasted
+## Version: 1.2
+## Notes: Add slash command /su to stop error messages and sounds in macros.
+## DefaultState: Enabled
+## X-License: MIT License
+## X-Curse-Packaged-Version: v1.2
+## X-Curse-Project-Name: ShutUp
+## X-Curse-Project-ID: ShutUp
+
+ShutUp.lua

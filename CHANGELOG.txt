@@ -1,0 +1,8 @@
+v1.2:
+ - Fix Local
+ 
+v1.1:
+ - Fix to Slash Command
+ 
+v1.0:
+  - initial release
